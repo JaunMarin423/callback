@@ -1,0 +1,16 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Entender y dominar async await ",
+  "main": "src/index.js",
+  "scripts": {
+    "callbacks": "node src/callback/index.js"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "JuanMany29",
+  "license": "MIT"
+}
